@@ -156,6 +156,22 @@ Let's build something incredible together!
       </p>
     </td>
   </tr>
+
+   <tr>
+    <td valign="top">
+      <h4>🔹 Operating System Simulator</h4>
+      <p>A mini OS simulator that helps users understand process scheduling concepts visually.</p>
+      <p>
+        <a href="https://github.com/patelshiv0804/Os-simulator-" target="_blank">📂 GitHub</a> | 
+        <a href="https://patelshiv0804.github.io/Os-simulator-/index.html" target="_blank">🔗 Live Demo</a>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" title="JavaScript"/>
+      </p>
+    </td>
+  </tr>
   
   <tr>
     <td valign="top">
@@ -185,22 +201,6 @@ Let's build something incredible together!
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" title="JavaScript"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" title="SQL"/>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top">
-      <h4>🔹 Operating System Simulator</h4>
-      <p>A mini OS simulator that helps users understand process scheduling concepts visually.</p>
-      <p>
-        <a href="https://github.com/patelshiv0804/Os-simulator-" target="_blank">📂 GitHub</a> | 
-        <a href="https://patelshiv0804.github.io/Os-simulator-/index.html" target="_blank">🔗 Live Demo</a>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" title="HTML"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" title="CSS"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" title="JavaScript"/>
       </p>
     </td>
   </tr>
