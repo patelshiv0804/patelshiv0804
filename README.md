@@ -1,4 +1,3 @@
-## Hi there 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/patelshiv0804/patelshiv0804/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/patelshiv0804/patelshiv0804/blob/output/github-contribution-grid-snake.svg">
@@ -15,8 +14,6 @@
   <img src="https://github.com/shivpatel/shivpatel/blob/main/assets/coding-animation.gif" width="400" alt="Coding Animation"/>
 </div> 
 
-
-# I'm **Shiv Patel**  
 ### 💻 *Aspiring Full Stack Developer & Tech Enthusiast*  
 > **"Crafting Code & Building Futures 🚀"**
 
@@ -119,7 +116,7 @@ Let's build something incredible together!
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelshiv0804&bg_color=0d1117&color=00d8ff&line=00d8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
----
+
 
 ## 🧠 Currently Exploring
 
