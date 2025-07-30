@@ -117,15 +117,6 @@ Let's build something incredible together!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelshiv0804&bg_color=0d1117&color=00d8ff&line=00d8ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-
-## 🧠 Currently Exploring
-
-📦 Building REST APIs with Express & MongoDB  
-🧩 Competitive Programming on Leetcode  
-🎮 Creating interactive browser-based mini-games  
-🧪 Experimenting with React animation libraries  
-🎨 Improving UI skills with Tailwind & Framer Motion
-
 ---
 
 ## 🌐 Let’s Connect! 👋
