@@ -146,6 +146,7 @@ Let's build something incredible together!
       <p>
         <a href="https://github.com/patelshiv0804/Xpensa" target="_blank">📂 GitHub</a>
         <a href="https://xpensa-black.vercel.app/" target="_blank">🔗 Live Demo</a>
+         <a href="https://www.figma.com/design/nlnwS8tOGiQV0lK6vSxPdp/Techlogy?node-id=416-508&t=4JxqynrAvIuL6mzM-1" target="_blank">🎨 Figma Design</a>
       </p>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" title="React.js"/>
